@@ -60,11 +60,11 @@ var gameUpdate= setInterval(draw,60);
 
 function startMove(event){
   if (event.keyCode== 37){
-    xspeed= -5;
+    xspeed= -10;
   }
 
   if (event.keyCode== 39){
-    xspeed= 5;
+    xspeed= 10;
   }
 }
 
