@@ -1,0 +1,22 @@
+/*canvas {
+  width: 800px;
+  height: 800px;
+  border: 1px black solid:
+}*/
+
+canvas {
+  background:url("http://img12.deviantart.net/efa0/i/2012/173/8/e/character_with_transparent_background_by_whispercookie-d54hgpz.png");
+  background-size: 100% 100%;
+  height: 800px;
+  width: 800px;
+}
+
+canvas #game {
+  height: 800px;
+  width: 800px;
+}
+
+body {
+  height: 800px;
+  width: 800px;
+}
